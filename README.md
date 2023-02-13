@@ -1,8 +1,8 @@
-In the project directory, you need to install all dependencies using command:
+## In the project directory, you need to install all dependencies using command:
 
 ### 'npm i'
 
-run the app:
+## run the app:
 
 ### 'npm run dev'
 
